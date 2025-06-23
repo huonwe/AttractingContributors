@@ -15,3 +15,4 @@ There are many AI models, but which one you think it best?
 - gemini
 - GPT
 - Claude.ai
+- HuBERT
